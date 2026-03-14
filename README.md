@@ -40,3 +40,7 @@ Key Findings
 - Retention drops from 100% to around 20-25% within the first month across all cohorts. This is the most critical point in the customer lifecycle. Improving early retention through onboarding, follow-up emails or first-purchase incentives would have a compounding effect on long-term revenue across every cohort.
 - Low Value customers have the highest churn rate at around 40%, while VIP customers churn the least. This suggests that higher-spending customers have stronger reasons to return, whether through product satisfaction, loyalty or habit. It also means that acquisition strategies targeting low-value customers are costly relative to the revenue they generate.
 - Customer 16029 represents £81K in revenue and is currently At Risk. A single at-risk customer at this value level represents a meaningful retention opportunity. The High Value Customers At Risk table in the dashboard allows the business to prioritize outreach to specific individuals before they churn.
+
+Data Source:
+Online Retail II dataset, UCI Machine Learning Repository via Kaggle
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
